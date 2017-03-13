@@ -11,7 +11,7 @@ receiver = '83472848@qq.com'
 subject = 'python email test'
 smtpserver = 'smtp.163.com'
 username = '78563943@163.com'
-password = '15538183158..'
+password = 'xxxxxx'
 #中文需参数‘utf-8’，单字节字符不需要
 content = 'hello'
 
